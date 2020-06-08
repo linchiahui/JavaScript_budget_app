@@ -33,7 +33,7 @@ User can add any income and expense arbitrary with description and value.
 
 * add expense, it will calculate each and total percentage of expense to total income.
 
-![](https://github.com/linchiahui/JavaScript_budget_app/blob/master/src_pic/add%20expense.PNG)
+![](https://github.com/linchiahui/JavaScript_budget_app/blob/master/src_pic/add%20expenses.PNG)
 
 User can also delete any wrong item, the budget will update in the same time.
 
