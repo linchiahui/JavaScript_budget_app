@@ -19,4 +19,24 @@
 
 ### Initialize
 
-### manipualte budget App
+When open the webbpage, the budget is zero and income and expenses are both empty.
+
+![](https://github.com/linchiahui/JavaScript_budget_app/blob/master/src_pic/Initial.PNG)
+
+### Manipualte budget App
+
+User can add any income and expense arbitrary with description and value.
+
+* add income
+
+![](https://github.com/linchiahui/JavaScript_budget_app/blob/master/src_pic/add%20income.PNG)
+
+* add expense, it will calculate each and total percentage of expense to total income.
+
+![](https://github.com/linchiahui/JavaScript_budget_app/blob/master/src_pic/add%20expense.PNG)
+
+User can also delete any wrong item, the budget will update in the same time.
+
+![](https://github.com/linchiahui/JavaScript_budget_app/blob/master/src_pic/Wrong%20input.PNG)
+
+![](https://github.com/linchiahui/JavaScript_budget_app/blob/master/src_pic/Delete%20income.png)
