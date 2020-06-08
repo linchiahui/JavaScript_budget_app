@@ -11,3 +11,10 @@
 * Each expense will automatically calculate the percentage of total income.
 
 * The expenses and income must have to create with description and value, otherwise, users can not record it.
+
+
+### App architecture
+
+### Initialize
+
+### manipualte budget App
