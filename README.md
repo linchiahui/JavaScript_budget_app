@@ -15,6 +15,8 @@
 
 ### App architecture
 
+![](https://github.com/linchiahui/JavaScript_budget_app/blob/master/src_pic/Architecture.PNG)
+
 ### Initialize
 
 ### manipualte budget App
