@@ -1,4 +1,4 @@
-# JavaScript Budget App
+# JavaScript [Budget App](https://linchiahui.github.io/)
 
 ### Function
 
